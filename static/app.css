@@ -22,3 +22,17 @@ body {
     left: 65%;
     transform: translate(-50%, -50%);
 }
+
+.rt4 {
+    position: absolute;
+    top: 41%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+}
+
+.nokiahs {
+    position: absolute;
+    top: 68%;
+    left: 63%;
+    transform: translate(-50%, -50%);
+}
