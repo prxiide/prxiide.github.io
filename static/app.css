@@ -1,11 +1,24 @@
 body {
-	background-color: #e3fdff;
+	background-color: #000;
 }
-
 
 .center {
     position: absolute;
     top: 50%;
     left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.lookig {
+    position: absolute;
+    top: 72%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+}
+
+.listensc {
+    position: absolute;
+    top: 30%;
+    left: 65%;
     transform: translate(-50%, -50%);
 }
