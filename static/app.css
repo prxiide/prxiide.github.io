@@ -1,3 +1,8 @@
+@font-face {
+  font-family: arex;
+  src: url("../static/arex.ttf");
+}
+
 body {
 	background-color: #000;
 }
@@ -35,4 +40,9 @@ body {
     top: 68%;
     left: 63%;
     transform: translate(-50%, -50%);
+}
+
+.textsteal {
+    font-size: 2.8vh;
+    font-family: arex;
 }
